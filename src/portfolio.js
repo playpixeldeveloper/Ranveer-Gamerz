@@ -23,7 +23,7 @@ const greeting = {
   username: "RANVEER GAMERZ",
   title: "Hi all, I'am Ranveer",
   subTitle: emoji(
-    "A passionate full of Youtube, Discord. Wanna build a community. Do you wanna help me? Come join my community "
+    "A passionate full of Youtube, Discord, Minecraft. Wanna build a community. Do you wanna help me? Come join my community "
   ),
   resumeLink:
     "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing", // Set to empty to hide the button
